@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+python-dotenv
+python-multipart       # for file uploads (UploadFile)
+pdfminer.six           # for extracting PDF text
+spacy                  # for NER and NLP
+
+pydantic
+
+scikit-learn
+numpy
+protobuf
