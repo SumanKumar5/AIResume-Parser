@@ -4,7 +4,6 @@
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.100.0-009688?logo=fastapi)](https://fastapi.tiangolo.com/)
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)](https://www.python.org/)
 [![OpenAI](https://img.shields.io/badge/AI%20Powered-OpenAI/Gemini-green?logo=openai)](https://openai.com/)
-[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 > An intelligent FastAPI backend that empowers resumes with AI. SmartResume parses resume files, evaluates job match scores, and rewrites bullet points to maximize impact — perfect for job seekers, platforms, and ATS enhancements.
 
@@ -37,7 +36,7 @@
 ### 1. Clone the Repo
 ```bash
 git clone https://github.com/SumanKumar5/AIResume-Parser.git
-cd smartresume-ai
+cd AIResume-Parser
 ````
 
 ### 2. Install Dependencies
